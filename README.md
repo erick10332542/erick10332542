@@ -1,4 +1,4 @@
-## Olá! Eu sou o Erick Santos! <img align="right" alt="Kratos" src="https://cdn.discordapp.com/attachments/785035077708939284/930822636626395176/d46lvis-407d8722-3c17-4d02-aa34-d6fcaa559ec3.gif">
+## Olá! Eu sou o Erick Santos!
 
 - 🚀・CEO and Developer from Alfa City.
 - 🔮・Studying .lua.
@@ -7,7 +7,6 @@
 <div>
   <a href="https://github.com/erick10332542">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick10332542&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick10332542&layout=compact&langs_count=16&theme=tokyonight"/>
  </div>
   
  <div style="display: inline_block"><br>
