@@ -1,37 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd5ce0&size=35&center=true&vCenter=true&width=1000&lines=Hello+Visitor;I'm+18+years;I'm+from+Brazil,City+Barreiras-BA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h1 align="center">💻 Erick Santos "DevErick" 💻</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador iuriCode">
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=erick10332542&show_icons=true&count_private=true&hide_border=true&title_color=bd5ce0&icon_color=bd5ce0&text_color=FFFFFF&bg_color=191919" alt="erick10332542 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botder&layout=compact&hide_border=true&title_color=bd5ce0&text_color=FFFFFF&bg_color=191919" />
-</div>
+## 👋・Olá!
+> Meu nome é **Erick Santos** 
+> Sou **Developer Full Stack**.
+- ✅ **Linguagens**: JavaScript・NodeJS・Java・Python.
+- ✅ Atualmente usando o framework **NextJS** para frontend.
+- 📗 Estudando TypeScript・ReactApp・React Native・.Lua
 
+> Sobre Mim:
 
-<div align="center">  
-  <a href="https://www.youtube.com/channel/UCF_4DDuyJpLBVpxngcU-ioA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/erick05512/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/peWgaGu3mT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
-  
+Sou mais na area de Designer, programo por hobby bots pra Discord até que foi a plataforma que me interessei a começar na area de programação
 
-### 🔮Main skills:
-![Lua](https://img.shields.io/badge/-Lua-0D1117?style=social&logo=Lua)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=social&logo=JavaScript)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=social&logo=Figma)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=social&logo=MySQL)&nbsp;
+<h1 align="center">🎨 Experiencia Designer</h1>
 
-### ⚙Tools:
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=social&logo=Windows)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=social&logo=Visual%20Studio%20Code)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=social&logo=GitHub)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=social&logo=Figma)&nbsp;
+<p align="center">
+    <a href="https://www.behance.net/ericksantos51">
+    <img src='https://skillicons.dev/icons?i=figma,lua,vscode' />
+    </a>
+  </p>
 
-### 🎓Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=social&logo=JavaScript)&nbsp;
+<h1 align="center">💻 Linguagens de Programação</h1>
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{erick10332542}/count.svg" /></p> 
-<br></div>
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+<p align="center">
+    <a href="https://github.com/erick10332542">
+    <img src='https://skillicons.dev/icons?i=nodejs,js,react' />
+    </a>
+  </p>
+
+<h1 align="center">🖥 Discord</h1>
+
+<p align="center">
+  <a href="https://discord.com/users/884597917296521217">
+  <img src='https://lanyard.cnrad.dev/api/884597917296521217?idleMessage=Designer%20and%20Developer' />
+  </a>
+</p>
