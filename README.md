@@ -28,10 +28,9 @@ Sou mais na area de Designer, programo por hobby bots pra Discord até que foi a
     </a>
   </p>
 
-<h1 align="center">🖥 Discord</h1>
-
-<p align="center">
-  <a href="https://discord.com/users/884597917296521217">
-  <img src='https://lanyard.cnrad.dev/api/884597917296521217?idleMessage=Erick%20and%20Santos' />
-  </a>
+<details>
+  <summary>💬 Contact</summary>
+   </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+  <string>ErickSantos#6243</string>
+</details> 
 </p>
