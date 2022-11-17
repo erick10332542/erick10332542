@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Erick Santos ✌️
+### 👋 Sejam Bem-vindos
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick05512/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/peWgaGu3mT)
@@ -7,7 +7,11 @@
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erick10332542&show_icons=true&theme=dracula)
 
-## Tecnologias que uso no meu dia
+## 🤔 Quem eu sou?
+
+Ola eu sou o Sr.Erick estudante e programador tenho 18 anos, atualmente as linguagens que eu sei no momento são Javascript, html e css. meu principal projeto é meu bot do discord.
+
+## ferramentas
 
 <div style="display: inline_block"><br/>
     <img alig="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,8 +19,5 @@
     <img alig="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alig="center" alt="html5" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 </div></br>
-
-## Últimos videos:
-- [Criando minha cidade de RP]()
 
 
